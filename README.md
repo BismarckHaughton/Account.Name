@@ -1,2 +1,5 @@
-# Account.Name: BismarckHaughton
-this is my code name
+#Name: Bismarck Haughton
+#Date: November 2 2024
+#Account name for my GitHub account
+
+AccountNameGoesHere: BismarckHaughton
